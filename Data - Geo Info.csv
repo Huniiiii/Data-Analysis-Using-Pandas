@@ -1,0 +1,263 @@
+﻿FSA,FSA Prefix,Province,FSA Type,Area,City Name,District,Geo Area km2
+L0A,L,Ontario,RURAL,Southern Ontario,,,605.26
+L0B,L,Ontario,RURAL,Southern Ontario,,,548.67
+L0C,L,Ontario,RURAL,Southern Ontario,,,347.95
+L0E,L,Ontario,RURAL,Southern Ontario,,,608.20
+L0G,L,Ontario,RURAL,Southern Ontario,,,734.94
+L0H,L,Ontario,RURAL,Southern Ontario,,,84.76
+L0J,L,Ontario,RURAL,Southern Ontario,,,50.46
+L0K,L,Ontario,RURAL,Southern Ontario,,,"1,802.89"
+L0L,L,Ontario,RURAL,Southern Ontario,,,"1,176.80"
+L0M,L,Ontario,RURAL,Southern Ontario,,,887.44
+L0N,L,Ontario,RURAL,Southern Ontario,,,937.41
+L0P,L,Ontario,RURAL,Southern Ontario,,,234.54
+L0R,L,Ontario,RURAL,Southern Ontario,,,"1,133.13"
+L0S,L,Ontario,RURAL,Niagra Region,Fonthill,,605.15
+L1A,L,Ontario,URBAN,Ontario,Port Hope,,193.91
+L1B,L,Ontario,URBAN,Ontario,Bowmanville,,81.79
+L1C,L,Ontario,URBAN,Ontario,Bowmanville,,169.19
+L1E,L,Ontario,URBAN,Ontario,Courtice,,39.33
+L1G,L,Ontario,URBAN,GTA,Oshawa,Oshawa,17.07
+L1H,L,Ontario,URBAN,GTA,Oshawa,Oshawa,90.36
+L1J,L,Ontario,URBAN,GTA,Oshawa,Oshawa,23.16
+L1K,L,Ontario,URBAN,GTA,Oshawa,Oshawa,14.02
+L1L,L,Ontario,URBAN,GTA,Oshawa,Oshawa,4.58
+L1M,L,Ontario,URBAN,GTA,Whitby,Whitby,47.50
+L1N,L,Ontario,URBAN,GTA,Whitby,Whitby,33.00
+L1P,L,Ontario,URBAN,GTA,Whitby,Whitby,18.22
+L1R,L,Ontario,URBAN,GTA,Whitby,Whitby,20.60
+L1S,L,Ontario,URBAN,GTA,Ajax,Ajax,19.74
+L1T,L,Ontario,URBAN,GTA,Ajax,Ajax,23.27
+L1V,L,Ontario,URBAN,GTA,Pickering,Pickering,35.37
+L1W,L,Ontario,URBAN,GTA,Pickering,Pickering,17.67
+L1X,L,Ontario,URBAN,GTA,Pickering,Pickering,22.73
+L1Y,L,Ontario,URBAN,GTA,Pickering,Pickering,96.29
+L1Z,L,Ontario,URBAN,GTA,Ajax,Ajax,24.89
+L2A,L,Ontario,URBAN,Niagra Region,Niagra Falls,,47.02
+L2E,L,Ontario,URBAN,Niagra Region,Niagra Falls,,129.68
+L2G,L,Ontario,URBAN,Niagra Region,Niagra Falls,,21.86
+L2H,L,Ontario,URBAN,Niagra Region,Niagra Falls,,17.04
+L2J,L,Ontario,URBAN,Niagra Region,Niagra Falls,,9.77
+L2M,L,Ontario,URBAN,Niagra Region,St. Catharines,,14.75
+L2N,L,Ontario,URBAN,Niagra Region,St. Catharines,,15.00
+L2P,L,Ontario,URBAN,Niagra Region,St. Catharines,,8.73
+L2R,L,Ontario,URBAN,Niagra Region,St. Catharines,,62.25
+L2S,L,Ontario,URBAN,Niagra Region,St. Catharines,,9.83
+L2T,L,Ontario,URBAN,Niagra Region,St. Catharines,,9.56
+L2V,L,Ontario,URBAN,Niagra Region,St. Catharines,,16.44
+L2W,L,Ontario,URBAN,Niagra Region,St. Catharines,,1.13
+L3B,L,Ontario,URBAN,Niagra Region,Welland,,124.24
+L3C,L,Ontario,URBAN,Niagra Region,Welland,,22.66
+L3K,L,Ontario,URBAN,Niagra Region,Port Colborne,,121.14
+L3M,L,Ontario,URBAN,Niagra Region,Grimsby,,54.76
+L3P,L,Ontario,URBAN,GTA,Markham,Markham,34.49
+L3R,L,Ontario,URBAN,GTA,Markham,Markham,32.40
+L3S,L,Ontario,URBAN,GTA,Markham,Markham,16.11
+L3T,L,Ontario,URBAN,GTA,Thornhill,Thornhill,20.95
+L3V,L,Ontario,URBAN,Ontario,Orillia,,579.71
+L3X,L,Ontario,URBAN,Ontario,Newmarket,,18.30
+L3Y,L,Ontario,URBAN,Ontario,Newmarket,,97.62
+L3Z,L,Ontario,URBAN,Ontario,Bradford,,152.62
+L4A,L,Ontario,URBAN,Ontario,Stouffville,,168.48
+L4B,L,Ontario,URBAN,GTA,Richmond Hill,Richmond Hill,15.28
+L4C,L,Ontario,URBAN,GTA,Richmond Hill,Richmond Hill,24.02
+L4E,L,Ontario,URBAN,GTA,Richmond Hill,Richmond Hill,45.48
+L4G,L,Ontario,URBAN,Ontario,Aurora,,50.01
+L4H,L,Ontario,URBAN,Ontario,Woodbridge,,28.93
+L4J,L,Ontario,URBAN,GTA,Thornhill,Thornhill,21.02
+L4K,L,Ontario,URBAN,Ontario,Concrod,,30.86
+L4L,L,Ontario,URBAN,GTA,Woodbridge South,Woodbridge South,77.09
+L4M,L,Ontario,URBAN,Ontario,Barrie,,145.59
+L4N,L,Ontario,URBAN,Ontario,Barrie,,72.97
+L4P,L,Ontario,URBAN,Ontario,Keswick,,173.45
+L4R,L,Ontario,URBAN,Ontario,Midland,,107.35
+L4S,L,Ontario,URBAN,GTA,Richmond Hill,Richmond Hill,17.31
+L4T,L,Ontario,URBAN,GTA,Mississauga,Mississauga,16.07
+L4V,L,Ontario,URBAN,GTA,Mississauga,Mississauga,0.20
+L4W,L,Ontario,URBAN,GTA,Mississauga,Mississauga,25.22
+L4X,L,Ontario,URBAN,GTA,Mississauga,Mississauga,6.79
+L4Y,L,Ontario,URBAN,GTA,Mississauga,Mississauga,8.14
+L4Z,L,Ontario,URBAN,GTA,Mississauga,Mississauga,12.44
+L5A,L,Ontario,URBAN,GTA,Mississauga,Mississauga,8.31
+L5B,L,Ontario,URBAN,GTA,Mississauga,Mississauga,10.02
+L5C,L,Ontario,URBAN,GTA,Mississauga,Mississauga,11.40
+L5E,L,Ontario,URBAN,GTA,Mississauga,Mississauga,7.93
+L5G,L,Ontario,URBAN,GTA,Mississauga,Mississauga,7.20
+L5H,L,Ontario,URBAN,GTA,Mississauga,Mississauga,11.20
+L5J,L,Ontario,URBAN,GTA,Mississauga,Mississauga,18.34
+L5K,L,Ontario,URBAN,GTA,Mississauga,Mississauga,5.98
+L5L,L,Ontario,URBAN,GTA,Mississauga,Mississauga,16.95
+L5M,L,Ontario,URBAN,GTA,Mississauga,Mississauga,28.31
+L5N,L,Ontario,URBAN,GTA,Mississauga,Mississauga,33.26
+L5P,L,Ontario,URBAN,GTA,Mississauga,Mississauga,21.12
+L5R,L,Ontario,URBAN,GTA,Mississauga,Mississauga,9.05
+L5S,L,Ontario,URBAN,GTA,Mississauga,Mississauga,3.26
+L5T,L,Ontario,URBAN,GTA,Mississauga,Mississauga,31.30
+L5V,L,Ontario,URBAN,GTA,Mississauga,Mississauga,11.56
+L5W,L,Ontario,URBAN,GTA,Mississauga,Mississauga,12.09
+L6A,L,Ontario,URBAN,GTA,Vaughn,Vaughn,62.27
+L6B,L,Ontario,URBAN,GTA,Markham,York,43.07
+L6C,L,Ontario,URBAN,GTA,Markham,York,47.79
+L6E,L,Ontario,URBAN,GTA,Markham,York,7.60
+L6G,L,Ontario,URBAN,GTA,Markham,York,5.43
+L6H,L,Ontario,URBAN,GTA,Oakville,Oakville,39.18
+L6J,L,Ontario,URBAN,GTA,Oakville,Oakville,18.58
+L6K,L,Ontario,URBAN,GTA,Oakville,Oakville,6.69
+L6L,L,Ontario,URBAN,GTA,Oakville,Oakville,18.16
+L6M,L,Ontario,URBAN,GTA,Oakville,Oakville,56.31
+L6P,L,Ontario,URBAN,GTA,Brampton,Brampton,47.27
+L6R,L,Ontario,URBAN,GTA,Brampton,Brampton,21.51
+L6S,L,Ontario,URBAN,GTA,Brampton,Brampton,19.84
+L6T,L,Ontario,URBAN,GTA,Brampton,Brampton,38.90
+L6V,L,Ontario,URBAN,GTA,Brampton,Brampton,8.66
+L6W,L,Ontario,URBAN,GTA,Brampton,Brampton,14.78
+L6X,L,Ontario,URBAN,GTA,Brampton,Brampton,25.43
+L6Y,L,Ontario,URBAN,GTA,Brampton,Brampton,37.08
+L6Z,L,Ontario,URBAN,GTA,Brampton,Brampton,14.37
+L7A,L,Ontario,URBAN,GTA,Brampton,Brampton,36.31
+L7B,L,Ontario,URBAN,GTA,King City,King City,96.63
+L7C,L,Ontario,URBAN,GTA,Caledon,Caledon,306.66
+L7E,L,Ontario,URBAN,GTA,Bolton,Bolton,153.55
+L7G,L,Ontario,URBAN,GTA,Georgetown,Georgetown,137.09
+L7J,L,Ontario,URBAN,GTA,Acton,Acton,164.93
+L7L,L,Ontario,URBAN,GTA,Burlington,Burlington,23.82
+L7M,L,Ontario,URBAN,GTA,Burlington,Burlington,49.42
+L7N,L,Ontario,URBAN,GTA,Burlington,Burlington,7.60
+L7P,L,Ontario,URBAN,GTA,Burlington,Burlington,51.10
+L7R,L,Ontario,URBAN,GTA,Burlington,Burlington,36.64
+L7S,L,Ontario,URBAN,GTA,Burlington,Burlington,3.43
+L7T,L,Ontario,URBAN,GTA,Burlington,Burlington,16.74
+L8E,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,34.05
+L8G,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,9.02
+L8H,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,18.13
+L8J,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,67.77
+L8K,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,11.33
+L8L,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,27.98
+L8M,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,2.75
+L8N,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,13.30
+L8P,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,5.59
+L8R,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,5.80
+L8S,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,8.62
+L8T,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,6.12
+L8V,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,5.40
+L8W,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,12.61
+L9A,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,7.42
+L9B,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,8.25
+L9C,L,Ontario,URBAN,Hamilton Area,Hamilton,Hamilton,13.03
+L9G,L,Ontario,URBAN,Hamilton Area,Ancaster West,Ancaster West,85.80
+L9H,L,Ontario,URBAN,Hamilton Area,Dundas,Dundas,99.77
+L9K,L,Ontario,URBAN,Hamilton Area,Ancaster East,Ancaster East,7.51
+L9L,L,Ontario,URBAN,Ontario,Port Perry,,213.37
+L9M,L,Ontario,URBAN,Ontario,Penetanguishene,,173.16
+L9N,L,Ontario,URBAN,Ontario,Holland Landing,,47.73
+L9P,L,Ontario,URBAN,Ontario,Uxbridge,,265.80
+L9R,L,Ontario,URBAN,Ontario,Alliston,,143.44
+L9S,L,Ontario,URBAN,Ontario,Innisfil,,183.45
+L9T,L,Ontario,URBAN,GTA,Milton,Milton,178.72
+L9V,L,Ontario,URBAN,Ontario,Orangeville,,8.45
+L9W,L,Ontario,URBAN,Ontario,Orangeville,,348.26
+L9Y,L,Ontario,URBAN,Ontario,Collingwood,,114.55
+L9Z,L,Ontario,URBAN,Ontario,Wasaga Beach,,59.89
+M4N,M,Ontario,URBAN,GTA,Toronto,Central Toronto,4.75
+M4P,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.04
+M4R,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.06
+M4S,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.62
+M4T,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.10
+M4V,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.72
+M5N,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.52
+M5P,M,Ontario,URBAN,GTA,Toronto,Central Toronto,3.21
+M5R,M,Ontario,URBAN,GTA,Toronto,Central Toronto,2.84
+M4W,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,4.36
+M4X,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,1.19
+M4Y,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,1.17
+M5A,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,3.47
+M5B,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,0.64
+M5C,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,0.17
+M5E,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,0.84
+M5G,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,0.74
+M5H,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,0.24
+M5J,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,6.80
+M5K,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,2.16
+M5L,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,2.16
+M5S,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,1.47
+M5T,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,1.87
+M5V,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,3.15
+M5W,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,2.93
+M5X,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,3.83
+M6G,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,3.67
+M7A,M,Ontario,URBAN,GTA,Toronto,Downtown Toronto,2.60
+M4E,M,Ontario,URBAN,GTA,Toronto,East Toronto,3.86
+M4K,M,Ontario,URBAN,GTA,Toronto,East Toronto,4.60
+M4L,M,Ontario,URBAN,GTA,Toronto,East Toronto,4.43
+M4M,M,Ontario,URBAN,GTA,Toronto,East Toronto,5.68
+M7Y,M,Ontario,URBAN,GTA,Toronto,East Toronto,4.82
+M4B,M,Ontario,URBAN,GTA,Toronto,East York,4.77
+M4C,M,Ontario,URBAN,GTA,Toronto,East York,5.17
+M4G,M,Ontario,URBAN,GTA,Toronto,East York,6.78
+M4H,M,Ontario,URBAN,GTA,Toronto,East York,2.14
+M4J,M,Ontario,URBAN,GTA,Toronto,East York,5.26
+M8V,M,Ontario,URBAN,GTA,Toronto,Etobicoke,6.73
+M8W,M,Ontario,URBAN,GTA,Toronto,Etobicoke,7.28
+M8X,M,Ontario,URBAN,GTA,Toronto,Etobicoke,3.24
+M8Y,M,Ontario,URBAN,GTA,Toronto,Etobicoke,5.78
+M8Z,M,Ontario,URBAN,GTA,Toronto,Etobicoke,11.23
+M9A,M,Ontario,URBAN,GTA,Toronto,Etobicoke,10.02
+M9B,M,Ontario,URBAN,GTA,Toronto,Etobicoke,10.59
+M9C,M,Ontario,URBAN,GTA,Toronto,Etobicoke,13.25
+M9P,M,Ontario,URBAN,GTA,Toronto,Etobicoke,6.57
+M9R,M,Ontario,URBAN,GTA,Toronto,Etobicoke,7.25
+M9V,M,Ontario,URBAN,GTA,Toronto,Etobicoke,13.25
+M9W,M,Ontario,URBAN,GTA,Toronto,Etobicoke,31.20
+M2H,M,Ontario,URBAN,GTA,Toronto,North York,7.61
+M2J,M,Ontario,URBAN,GTA,Toronto,North York,10.25
+M2K,M,Ontario,URBAN,GTA,Toronto,North York,5.79
+M2L,M,Ontario,URBAN,GTA,Toronto,North York,5.39
+M2M,M,Ontario,URBAN,GTA,Toronto,North York,7.41
+M2N,M,Ontario,URBAN,GTA,Toronto,North York,9.76
+M2P,M,Ontario,URBAN,GTA,Toronto,North York,3.03
+M2R,M,Ontario,URBAN,GTA,Toronto,North York,6.99
+M3A,M,Ontario,URBAN,GTA,Toronto,North York,7.58
+M3B,M,Ontario,URBAN,GTA,Toronto,North York,6.72
+M3C,M,Ontario,URBAN,GTA,Toronto,North York,8.51
+M3H,M,Ontario,URBAN,GTA,Toronto,North York,11.33
+M3J,M,Ontario,URBAN,GTA,Toronto,North York,15.27
+M3K,M,Ontario,URBAN,GTA,Toronto,North York,5.76
+M3L,M,Ontario,URBAN,GTA,Toronto,North York,4.43
+M3M,M,Ontario,URBAN,GTA,Toronto,North York,5.60
+M3N,M,Ontario,URBAN,GTA,Toronto,North York,7.39
+M4A,M,Ontario,URBAN,GTA,Toronto,North York,4.30
+M5M,M,Ontario,URBAN,GTA,Toronto,North York,5.32
+M6A,M,Ontario,URBAN,GTA,Toronto,North York,5.76
+M6B,M,Ontario,URBAN,GTA,Toronto,North York,5.41
+M6L,M,Ontario,URBAN,GTA,Toronto,North York,5.01
+M9L,M,Ontario,URBAN,GTA,Toronto,North York,7.39
+M9M,M,Ontario,URBAN,GTA,Toronto,North York,7.89
+M1B,M,Ontario,URBAN,GTA,Toronto,Scarborough,25.23
+M1C,M,Ontario,URBAN,GTA,Toronto,Scarborough,14.08
+M1E,M,Ontario,URBAN,GTA,Toronto,Scarborough,16.63
+M1G,M,Ontario,URBAN,GTA,Toronto,Scarborough,7.98
+M1H,M,Ontario,URBAN,GTA,Toronto,Scarborough,5.50
+M1J,M,Ontario,URBAN,GTA,Toronto,Scarborough,6.20
+M1K,M,Ontario,URBAN,GTA,Toronto,Scarborough,9.17
+M1L,M,Ontario,URBAN,GTA,Toronto,Scarborough,8.92
+M1M,M,Ontario,URBAN,GTA,Toronto,Scarborough,8.87
+M1N,M,Ontario,URBAN,GTA,Toronto,Scarborough,6.01
+M1P,M,Ontario,URBAN,GTA,Toronto,Scarborough,10.36
+M1R,M,Ontario,URBAN,GTA,Toronto,Scarborough,9.07
+M1S,M,Ontario,URBAN,GTA,Toronto,Scarborough,14.66
+M1T,M,Ontario,URBAN,GTA,Toronto,Scarborough,6.28
+M1V,M,Ontario,URBAN,GTA,Toronto,Scarborough,13.10
+M1W,M,Ontario,URBAN,GTA,Toronto,Scarborough,8.48
+M1X,M,Ontario,URBAN,GTA,Toronto,Scarborough,16.84
+M6H,M,Ontario,URBAN,GTA,Toronto,West Toronto,4.52
+M6J,M,Ontario,URBAN,GTA,Toronto,West Toronto,2.74
+M6K,M,Ontario,URBAN,GTA,Toronto,West Toronto,4.09
+M6P,M,Ontario,URBAN,GTA,Toronto,West Toronto,4.15
+M6R,M,Ontario,URBAN,GTA,Toronto,West Toronto,2.51
+M6S,M,Ontario,URBAN,GTA,Toronto,West Toronto,7.89
+M6C,M,Ontario,URBAN,GTA,Toronto,York,3.35
+M6E,M,Ontario,URBAN,GTA,Toronto,York,4.95
+M6M,M,Ontario,URBAN,GTA,Toronto,York,7.97
+M6N,M,Ontario,URBAN,GTA,Toronto,York,8.22
+M9N,M,Ontario,URBAN,GTA,Toronto,York,4.72
+L7K,L,Ontario,URBAN,GTA,Caledon,,241.61
